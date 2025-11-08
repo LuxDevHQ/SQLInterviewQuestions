@@ -6,11 +6,11 @@ Using the 3 tables clinic1_data, clinic2_data, and clinic3_data above, construct
 
 ### **Workshop Challenge Questions:** 
 
-### **Challenge 1: 627. Swap Salary:-** https://leetcode.com/problems/swap-salary/description/ 
-### **Challenge 2: 1321. Restaurant Growth:-**  https://leetcode.com/problems/restaurant-growth/description/ 
-### **Challenge 3: 1873. Calculate Special Bonus:-** https://leetcode.com/problems/calculate-special-bonus/description/ 
-### **Challenge 4: 1978. Employees Whose Manager Left the Company:-** https://leetcode.com/problems/employees-whose-manager-left-the-company/description/
-### **Challenge 5:
+### **Challenge 627. Swap Salary:-** https://leetcode.com/problems/swap-salary/description
+### **Challenge 1321. Restaurant Growth:-**  https://leetcode.com/problems/restaurant-growth/description
+### **Challenge 1873. Calculate Special Bonus:-** https://leetcode.com/problems/calculate-special-bonus/description
+### **Challenge 1978. Employees Whose Manager Left the Company:-** https://leetcode.com/problems/employees-whose-manager-left-the-company/description
+### **Challenge 1890. The Latest Login in 2020:-** https://leetcode.com/problems/the-latest-login-in-2020/description 
 ### **Challenge 6:
 ### **Challenge 7:
 ### **Challenge 8:
