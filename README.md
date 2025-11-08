@@ -1,3 +1,12 @@
+### **Welcome to the LuxDevHQ SQL LeetCode Challenge.**
+
+Get ready to level up your SQL skills with a mix of **real-world problem-solving** and **LeetCode-style challenges**.  
+This session is designed to strengthen your understanding of **SQL joins**, **aggregations**, **window functions**, and **data manipulation techniques**.  
+
+We’ll start with a **sample query problem** to warm up, then dive into **hands-on LeetCode challenges** covering beginner to intermediate-level SQL concepts.  
+Remember to think critically, write clean queries, and collaborate with your peers — it’s all about learning and growing together! 🚀
+
+
 <img width="831" height="683" alt="image" src="https://github.com/user-attachments/assets/51f05a7c-bb9f-4346-b992-bbe1ed91aacd" />
 
 ### **Sample Question 1:**
