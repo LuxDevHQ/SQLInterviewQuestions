@@ -1,0 +1,16 @@
+-- Create Vaccination Clinic 2 table
+CREATE TABLE clinic2_data (
+PtID VARCHAR(20) PRIMARY KEY,
+AGE INT,
+PTSEX CHAR(1),
+RACETHCODE VARCHAR(50),
+ZIPCODE VARCHAR(10),
+VaccClass INT,
+DATE_OF_VA DATE
+);
+ 
+-- Insert sample data for Clinic 2
+INSERT INTO clinic2_data (PtID, AGE, PTSEX, RACETHCODE, ZIPCODE, VaccClass, DATE_OF_VA) VALUES
+('9847271', 28, 'F', 'WHITE', '02118', 2, '2024-12-16'),
+('6289395', 56, 'M', 'BLACK', '02119', 2, '2024-12-16'),
+('2638923', 58, 'M', 'BLACK', '02110', 3, '2024-12-16');
